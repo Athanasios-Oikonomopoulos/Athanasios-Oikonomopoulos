@@ -19,6 +19,7 @@
 **My goal** is to develop and apply defensive security skills in real-world scenarios, helping organizations detect, respond to, and recover from cyber threats through practical, project-based learning and continuous growth.
 
 ---
+## 🛠️ Technical Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
