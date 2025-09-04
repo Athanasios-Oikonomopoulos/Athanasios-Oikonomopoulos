@@ -13,6 +13,8 @@
 - Experienced with tools such as **Splunk**, **pfSense**, **Wazuh**, **Wireshark**, **Burp Suite**, **Nmap**, **Microsoft Sentinel**, and **Microsoft Defender**    
 - Ranked in the **Top 2% globally on TryHackMe**  
 - Writing technical blogs on [Medium](https://medium.com/@athanasiosoikonomopoulos.02)  
+- 📄 [Link to my CV](https://drive.google.com/file/d/1UlpsoGiX0-BJUdhC58IDURrzgCgmun7l/view?usp=sharing)
+
 
 **My goal** is to develop and apply defensive security skills in real-world scenarios, helping organizations detect, respond to, and recover from cyber threats through practical, project-based learning and continuous growth.
 
