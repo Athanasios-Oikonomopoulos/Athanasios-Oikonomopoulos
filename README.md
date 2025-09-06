@@ -100,7 +100,7 @@
 | **Enterprise-Level SOC Lab** | Engineering a Multi-Zone Infrastructure for Threat Detection | [🔗 View Project](https://athanasios-oikonomopoulos.notion.site/enterprise-level-soc-lab) |
 | **Designing a Full-Stack SOC Lab with Splunk** | Building Detection, Alerting, and Investigation Workflows Against Simulated Attacks | [🔗 View Project](https://athanasios-oikonomopoulos.notion.site/designing-a-full-stack-soc-lab-with-splunk) |
 | **CTF Project** | Technical Report on Flag Discovery and Exploitation in a Linux Environment | [🔗 View Project](https://athanasios-oikonomopoulos.notion.site/ctf-technical-report) |
-| **Blue \| TryHackMe Exploitation Project** | MS17-010 (EternalBlue) Attack Chain & Detection Techniques | [🔗 View Project](https://athanasios-oikonomopoulos.notion.site/blue-tryhackme-detailed-write-up-exploitation-project) |
+| **Blue \| TryHackMe Exploitation Project** | MS17-010 (EternalBlue) Exploitation Chain in a Simulated Windows Environment | [🔗 View Project](https://athanasios-oikonomopoulos.notion.site/blue-tryhackme-detailed-write-up-exploitation-project) |
 | **Advanced Credential Phishing Simulation** | GoPhish Campaign with Evilginx2 Proxy (*In Progress*) | **Coming Soon** |
 
 
