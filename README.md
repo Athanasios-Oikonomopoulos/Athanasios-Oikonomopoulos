@@ -101,7 +101,7 @@
 | **Designing a Full-Stack SOC Lab with Splunk** | Building Detection, Alerting, and Investigation Workflows Against Simulated Attacks | [🔗 View Project](https://athanasios-oikonomopoulos.notion.site/designing-a-full-stack-soc-lab-with-splunk) |
 | **CTF Project** | Technical Report on Flag Discovery and Exploitation in a Linux Environment | [🔗 View Project](https://athanasios-oikonomopoulos.notion.site/ctf-technical-report) |
 | **Blue \| TryHackMe Exploitation Project** | MS17-010 (EternalBlue) Exploitation Chain in a Simulated Windows Environment | [🔗 View Project](https://athanasios-oikonomopoulos.notion.site/blue-tryhackme-detailed-write-up-exploitation-project) |
-| **Advanced Credential Phishing Simulation** | GoPhish Campaign with Evilginx2 Proxy (*In Progress*) | **Coming Soon** |
+| **End-to-End Phishing Campaign with GoPhish and Evilginx** | A Study on Detection-Evasion Tactics and MFA Bypass in Modern Phishing | [🔗 View Project](https://athanasios-oikonomopoulos.notion.site/end-to-end-phishing-campaign-with-gophish-and-evilginx) |
 
 
 
