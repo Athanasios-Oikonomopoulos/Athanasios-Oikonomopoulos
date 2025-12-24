@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi, I'm Athanasios Oikonomopoulos 👋</h1>
-<h3 align="center">Cybersecurity Analyst | Network Engineer | Ethical Hacker</h3>
+<h3 align="center">Cybersecurity Engineer | Ethical Hacker</h3>
 
 ---
 
